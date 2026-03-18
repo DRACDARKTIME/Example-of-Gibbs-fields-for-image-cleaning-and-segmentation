@@ -45,5 +45,5 @@ for t = 1 to B + S_m:
 ```
 
 Estos son los resultados que se obtuvieron.
-![Resultadps](./resultados.png)
+![Resultados](./resultados.png)
 
